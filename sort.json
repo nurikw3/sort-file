@@ -1,8 +1,8 @@
 {
 	"data": [
 	{
-		"from": "C:/Users/nuras/Downloads",
-		"to": "C:/Users/nuras/Desktop/music",
+		"from": "C:/Users/../Downloads",
+		"to": "C:/Users/../Desktop/music",
 		"format": ["mp3"]
 	}
 	]
