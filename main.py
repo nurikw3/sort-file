@@ -19,7 +19,7 @@ class Handler(FileSystemEventHandler):
 tprint('sortfile')
 
 with open('sort.json') as f:
-	print('[?] Json файл загружен.')
+	print('[!] Json файл загружен.')
 	data = json.load(f)
 
 folder_track = data['data'][0]['from']
